@@ -7,6 +7,6 @@
 body{
   /* background-color: var(--tg-them-bg-color);
   color: var(--tg-them-text-color); */
-  background-color: var();
+  background-color: var(white);
   color: var(black);
 }
